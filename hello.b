@@ -1,0 +1,2 @@
+print("Hello");
+echo "World!";
